@@ -27,5 +27,5 @@
 
 ### 4. App.js (전체 통합 테스트)
 - [X] 모든 모듈 연동
-- [ ] `App.run()` 실행 로직 완성
-- [ ] `AplicationTest.js` 테스트 확인
+- [X] `App.run()` 실행 로직 완성
+- [X] `AplicationTest.js` 테스트 확인
